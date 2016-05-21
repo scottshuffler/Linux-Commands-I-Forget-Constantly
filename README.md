@@ -5,3 +5,8 @@
 ssh-keygen -t rsa
 ssh-copy-id username@server
 ```
+
+## Git
+```
+git reset --hard HEAD
+```
