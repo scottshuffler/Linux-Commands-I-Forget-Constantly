@@ -6,7 +6,7 @@ ssh-keygen -t rsa
 ssh-copy-id username@server
 ```
 
-## Mounting
+## Mount
 ```
 mount /dev/drive mountpoint (ex: mount /dev/sda1 work)
 ```
