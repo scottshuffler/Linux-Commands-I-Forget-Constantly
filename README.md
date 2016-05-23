@@ -9,4 +9,10 @@ ssh-copy-id username@server
 ## Git
 ```
 git reset --hard HEAD
+
+git add .
+
+git commit -am "message"
+
+git push origin Master
 ```
