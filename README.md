@@ -6,6 +6,11 @@ ssh-keygen -t rsa
 ssh-copy-id username@server
 ```
 
+## Mounting
+```
+mount /dev/sda1 mountpoint
+```
+
 ## Git
 ```
 git reset --hard HEAD
