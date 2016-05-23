@@ -8,7 +8,7 @@ ssh-copy-id username@server
 
 ## Mounting
 ```
-mount /dev/sda1 mountpoint
+mount /dev/drive mountpoint (ex: mount /dev/sda1 work)
 ```
 
 ## Git
