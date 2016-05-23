@@ -6,6 +6,11 @@ ssh-keygen -t rsa
 ssh-copy-id username@server
 ```
 
+## Java
+```
+java -jar path/to/jar
+```
+
 ## Mount
 ```
 mount /dev/drive mountpoint (ex: mount /dev/sda1 work)
