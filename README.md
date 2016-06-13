@@ -11,6 +11,12 @@ ssh-copy-id username@server
 java -jar path/to/jar
 ```
 
+## Imaging
+```
+sudo umount /dev/device
+dd bs=4M if=/path/to/image of=/dev/device
+```
+
 ## Mount
 ```
 mount /dev/drive mountpoint (ex: mount /dev/sda1 work)
