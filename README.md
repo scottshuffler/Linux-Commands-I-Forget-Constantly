@@ -3,6 +3,7 @@
 ## SSH Keys
 ```
 ssh-keygen -t rsa
+
 ssh-copy-id username@server
 ```
 
@@ -14,7 +15,9 @@ java -jar path/to/jar
 ## Imaging
 ```
 sudo umount /dev/device
+
 dd bs=4M if=/path/to/image of=/dev/device
+
 sync
 ```
 
