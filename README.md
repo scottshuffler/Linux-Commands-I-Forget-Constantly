@@ -15,6 +15,7 @@ java -jar path/to/jar
 ```
 sudo umount /dev/device
 dd bs=4M if=/path/to/image of=/dev/device
+sync
 ```
 
 ## Mount
