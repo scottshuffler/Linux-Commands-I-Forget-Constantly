@@ -7,6 +7,11 @@ ssh-keygen -t rsa
 ssh-copy-id username@server
 ```
 
+## NMAP
+```
+nmap -sP 192.168.1.*
+```
+
 ## Java
 ```
 java -jar path/to/jar
